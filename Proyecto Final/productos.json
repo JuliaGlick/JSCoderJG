@@ -1,0 +1,44 @@
+[
+          {
+            "id": 1,
+            "nombre": "Veggie Ramen",
+            "foto": "https://assets.bonappetit.com/photos/5e3c7a3c866b940008106763/1:1/w_3482,h_3482,c_limit/HLY-Veggie-Ramen-16x9.jpg",
+            "precio": 2500
+          },
+          {
+            "id": 2,
+            "nombre": "Black Garlic Ramen",
+            "foto": "https://static.wixstatic.com/media/9f500c_3681aa342e9a4509824ed6ef72732c1d~mv2.jpeg/v1/fill/w_600,h_399,al_c,lg_1,q_80,enc_auto/9f500c_3681aa342e9a4509824ed6ef72732c1d~mv2.jpeg",
+            "precio": 3000
+          },
+          {
+            "id": 3,
+            "nombre": "Miso Ramen",
+            "foto": "https://inquiringchef.com/wp-content/uploads/2022/11/Easy-Miso-Ramen_square-0723.jpg",
+            "precio": 3500
+          },
+          {
+            "id": 4,
+            "nombre": "Tonkotsu Ramen",
+            "foto": "https://www.closetcooking.com/wp-content/uploads/2018/03/TonkotsuRamen8000807-min.jpg",
+            "precio": 4000
+          },
+          {
+            "id": 5,
+            "nombre": "Kimchi Ramen",
+            "foto": "https://steamykitchen.com/wp-content/uploads/2015/11/kimchi-ramen-recipe-5505.jpg",
+            "precio": 3500
+          },
+          {
+            "id": 6,
+            "nombre": "Chili Shrimp Ramen",
+            "foto": "https://www.modernfarmhouseeats.com/wp-content/uploads/2021/03/chili-lime-shrimp-ramen-12-scaled.jpg",
+            "precio": 5000
+          },
+          {
+            "id": 7,
+            "nombre": "Spicy Ramen",
+            "foto": "https://static.chloeting.com/recipes/625fe4117ecf11cb54b47301/images/kimchi-ramen-1.webp",
+            "precio": 5000
+          }
+        ]
